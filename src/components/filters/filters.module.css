@@ -1,0 +1,12 @@
+.filters {
+  display: flex;
+  justify-content: space-between;
+}
+
+.language {
+  width: 75%;
+}
+
+.rows {
+  width: 20%;
+}
