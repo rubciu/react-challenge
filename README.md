@@ -1,6 +1,6 @@
 ## Instructions
 
-Create `config.js` field inside folder `src`, inside this file define and export a constant `GITHUB_TOKEN` with your Github token in order to be authorize to make GraphQL API calls.
+Inside `src/config.js` in variable `GITHUB_TOKEN` please use your Github Token in order to get authorize to make your API calls
 
 ## Available Scripts
 
